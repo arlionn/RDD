@@ -1,0 +1,12 @@
+		(1)	(2)	(3)	(4)
+VARIABLES	LABELS	Male	White	Age	Accident
+					
+RD_Estimate		0.006	0.006	-0.140	-0.003
+		(0.006)	(0.005)	(0.164)	(0.004)
+					
+Observations		89,967	89,967	89,967	89,967
+Controls		No	No	No	No
+Mean at (0.079)		0.787	0.845	34.90	0.100
+Standard errors are in parentheses.					
+** Significant at the 5 percent level.					
+)					
